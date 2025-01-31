@@ -1,5 +1,6 @@
 # Dockerfile and scripts available at https://github.com/Kurtoid/hscc2025
 download and extract the tar.gz from the above
+> github has a bandwidth limit for large files - if this repo cannot be cloned, here is a backup link: https://nextcloud.kurtw.dev/s/WRmYakwH6mQY4N4
 
 Generate an UPPAAL license key at https://uppaal.veriaal.dk/academic.html
 Place the key in `uppaal_key.txt` (without a newline at the end)
